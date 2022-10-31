@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ATP_Teensy_footprints")(type "KiCad")(uri "${KIPRJMOD}/ATP_Teensy_footprints.pretty")(options "")(descr ""))
+  (lib (name "teensy")(type "KiCad")(uri "C:/Users/alexa/Documents/UCI/_ROCKET/ATP_Teensy/teensy.pretty-master/teensy.pretty-master")(options "")(descr ""))
+)
