@@ -15,7 +15,12 @@ Communication Protocols Used:
 | GPS  | UART  |
 | XBEE  | UART  |
 
-## Used Packages
-* Teensy 4.1 [symbol](https://github.com/XenGi/teensy_library) and [footprint](https://github.com/XenGi/teensy.pretty). Related files and license is located under `/teensylib`.
 
-* The board was renamed from "Avionics Test Payload (ATP)" to "Avinics Flight Sensor (AFS)"
+## Used Packages
+- Teensy 4.1 [symbol](https://github.com/XenGi/teensy_library) and [footprint](https://github.com/XenGi/teensy.pretty). Related files and license is located under `/teensylib`.
+
+
+## Notes
+- The board requires an external 9V battery to power sensors and the Teensy
+- The GPS uses an optional "CR1220 coin cell to keep the RTC running and allow warm starts"
+- The board was renamed from "Avionics Test Payload (ATP)" to "Avionics Flight Sensor (AFS)"
