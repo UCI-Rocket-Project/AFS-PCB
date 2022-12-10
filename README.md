@@ -17,3 +17,5 @@ Communication Protocols Used:
 
 ## Used Packages
 * Teensy 4.1 [symbol](https://github.com/XenGi/teensy_library) and [footprint](https://github.com/XenGi/teensy.pretty). Related files and license is located under `/teensylib`.
+
+* The board was renamed from "Avionics Test Payload (ATP)" to "Avinics Flight Sensor (AFS)"
