@@ -8,7 +8,7 @@ The board includes:
 Communication Protocols Used:
 | Component  | Communication Protocol |
 | ------------- | ------------- |
-| BMP388  | I2C  |
+| BMP388  | SPI  |
 | MPU-6050  | I2C  |
 | GPS  | UART  |
 | XBEE  | UART  |
