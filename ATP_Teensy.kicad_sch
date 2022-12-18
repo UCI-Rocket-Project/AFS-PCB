@@ -1290,7 +1290,7 @@
     (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
     (uuid 94601657-37ca-4908-b2d7-96425b4d30f1)
   )
-  (text "Note:\n- 5V_IN is not connected to 5V because we only \nneed the adapter when conencting to a computer\n- To help reduce noise, we recommend placing \nboth a 1uF and 47pF capacitor as near to \npin 1 on the PCB as possible"
+  (text "Note:\n- The XBee module (not shown) is on top of USB adapter\n- 5V_IN is not connected to 5V because we only \nneed the adapter when conencting to a computer\n- To help reduce noise, we recommend placing \nboth a 47pF, 1uF, and 10uF capacitor as near to \npin 1 on the PCB as possible"
     (at 13.97 195.58 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid cead25b6-b7c3-4983-b506-27356804e9a8)
