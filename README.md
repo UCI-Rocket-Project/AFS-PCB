@@ -7,6 +7,8 @@ The board includes:
 - [Adafruit Ultimate GPS](https://www.adafruit.com/product/746#description)
 - [Digi XBee-PRO XSC S3B](https://www.mouser.com/ProductDetail/Gravitech/XBee-USB?qs=Vxac6xGyzPnMlpwH9hhfHQ%3D%3D) 
 - [Adafruit XBee USB Adapter](https://www.adafruit.com/product/247?gclid=Cj0KCQiA1sucBhDgARIsAFoytUtwdYkYjMLGpFy2WvyzD8O8x4Ewsu3eSLwTMnisukgy84cH7zYznMQaAjZiEALw_wcB)
+- Teensy 4.1
+- [Linear Regulator (9V -> 5V)](https://www.digikey.com/en/products/detail/stmicroelectronics/L7805CV/585964)
 
 Communication Protocols Used:
 | Component  | Communication Protocol |
