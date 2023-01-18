@@ -11,12 +11,33 @@ The board includes:
 - [Linear Regulator (9V -> 5V)](https://www.digikey.com/en/products/detail/stmicroelectronics/L7805CV/585964)
 
 Communication Protocols Used:
-| Component  | Communication Protocol |
+| Component  | Communication Protocol | 
 | ------------- | ------------- |
-| BMP388  | SPI  |
+| BMP388  | SPI  | 
 | MPU-6050  | I2C  |
 | GPS  | UART  |
 | XBEE  | UART  |
+
+
+Pinouts:
+
+XBEE
+- DOUT -> 0  RX1
+- DIN  -> 1  TX1
+
+GPS
+- TX	 -> 7 RX2
+- RX	 -> 8 TX2
+
+BMP
+- CS	 -> 10 CS
+- SDI  -> 11 MOSI
+- SDO  -> 12 MISO
+- SCK  -> 27 SCK1
+
+MPU
+- SDA  -> 17 SDA1
+- SCL	 -> 16 SCL1
 
 
 
