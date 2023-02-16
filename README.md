@@ -21,11 +21,11 @@ Communication Protocols Used:
 
 Pinouts:
 
-XBEE
+XBEE (Serial1 port in Teensy 4.1)
 - DOUT -> 0  RX1
 - DIN  -> 1  TX1
 
-GPS
+GPS (Serial2 port in Teensy 4.1)
 - TX	 -> 7 RX2
 - RX	 -> 8 TX2
 
@@ -35,7 +35,7 @@ BMP
 - SDO  -> 12 MISO
 - SCK  -> 27 SCK1
 
-MPU
+MPU (Wire1 port in Teensy 4.1)
 - SDA  -> 17 SDA1
 - SCL	 -> 16 SCL1
 
